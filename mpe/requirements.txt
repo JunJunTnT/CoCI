@@ -1,0 +1,8 @@
+gym==0.25.0
+numpy==1.22.3
+pyglet==1.5.26
+setuptools==61.2.0
+six==1.16.0
+tensorflow==2.2.0
+tf_slim==1.1.0
+numpy-stl==2.17.1
