@@ -5,6 +5,7 @@ This is the code for implementing different algorithms on multiagent-praticle_en
 ## Getting start
 
 You can get all the dependencies in `requirements.txt`. Use `pip install -r requirements.txt` to install the dependencies you need.
+
 After installing dependencies, you can run this project in `./experiments/train.py`. Experiment environment can be modified by setting different parameters below.
 
 Note: We have refactored the code of highway-env and gym, if you want to verify each algorithm, please replace the code of them in your environment. The default path is `$PYTHON_HOME$\Lib\site-packages`, where `$PYTHON_HOME$` is the directory of your python.
