@@ -2,7 +2,7 @@
 
 This is the code for policy gradient algorithm in binary environment.
 
-## Dependency
+## Getting strat
 
 You can get all the dependencies in `requirements.txt`. Use `pip install -r requirements.txt` to install the dependencies you need.
 
