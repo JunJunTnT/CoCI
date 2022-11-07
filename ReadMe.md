@@ -4,5 +4,5 @@ In this project, we implement Communication-aware Collective Intelligence(CoCI) 
 
 Binary-env is a small environment in which we test some conjectures about the efficiency of communication in MARL. Code is available in the `binary` folder.
 
-
+Moreover, there is a `ReadMe.md` under the folder for each environment, which contains the detail of parameters and code structure. You can refer to these documents and carry out your experiment.
 
