@@ -5,6 +5,7 @@ This is the code for policy gradient algorithm in binary environment.
 ## Getting start
 
 You can get all the dependencies in `requirements.txt`. Use `pip install -r requirements.txt` to install the dependencies you need.
+
 After installing dependencies, you can run this project in `./train_without_com.py` and `./train_with_com.py`. Experiment environment can be modified by setting different parameters below.
 
 ## Parameters
